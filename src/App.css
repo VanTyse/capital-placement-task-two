@@ -1,0 +1,11 @@
+.shadow-sidebar {
+  box-shadow: 0px 4px 23px 0px rgba(0, 0, 0, 0.05);
+}
+
+.shadow--sort-options-container {
+  box-shadow: 0px 4px 8px 4px rgba(0, 0, 0, 0.05);
+}
+
+.bg-modal {
+  background: rgba(0, 0, 0, 0.7);
+}
